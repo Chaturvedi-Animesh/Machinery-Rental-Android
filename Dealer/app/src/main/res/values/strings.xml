@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dealer</string>
+    <string-array name="Machines">
+        <item>Tractor</item>
+        <item>Cultivator</item>
+        <item>Plough</item>
+        <item>Harvester</item>
+    </string-array>
+
+    <string-array name="condi">
+        <item>Good</item>
+        <item>Okay</item>
+        <item>Poor</item>
+    </string-array>
+</resources>
