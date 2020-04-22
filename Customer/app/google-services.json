@@ -1,71 +1,42 @@
 {
   "project_info": {
-    "project_number": "1083726272264",
-    "firebase_url": "https://machinery-rental-app.firebaseio.com",
-    "project_id": "machinery-rental-app",
-    "storage_bucket": "machinery-rental-app.appspot.com"
+    "project_number": "273895192314",
+    "firebase_url": "https://machinery-rental.firebaseio.com",
+    "project_id": "machinery-rental",
+    "storage_bucket": "machinery-rental.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1083726272264:android:290652f78ef5f29e437ebd",
+        "mobilesdk_app_id": "1:273895192314:android:cb63df07a25829f6167b43",
         "android_client_info": {
           "package_name": "com.chaturvediji.customer"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1083726272264-hsfp8ghu76h4tg7ok5itn4q46kfcm9ku.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyC2uuDPNCPriXtLslwgPTIALSgwNN8G7Aw"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1083726272264-hsfp8ghu76h4tg7ok5itn4q46kfcm9ku.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:1083726272264:android:8cd4cd422144555e437ebd",
-        "android_client_info": {
-          "package_name": "com.chaturvediji.dealer"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "1083726272264-qsrr9ovso10rmuc4k1mga87e7scsqpid.apps.googleusercontent.com",
+          "client_id": "273895192314-v5r2sqbboaava7tt3s7ukrj3ou2sqt58.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.chaturvediji.dealer",
+            "package_name": "com.chaturvediji.customer",
             "certificate_hash": "141d932b4f68e8afb014e6093fb557b2c51c1dd4"
           }
         },
         {
-          "client_id": "1083726272264-hsfp8ghu76h4tg7ok5itn4q46kfcm9ku.apps.googleusercontent.com",
+          "client_id": "273895192314-ld0d4vp0b4sjscfuaa95kdv4f68e8i1m.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC2uuDPNCPriXtLslwgPTIALSgwNN8G7Aw"
+          "current_key": "AIzaSyC2DtI4qpw0FPsZPBPHVVjhVySsUrjuUsk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1083726272264-hsfp8ghu76h4tg7ok5itn4q46kfcm9ku.apps.googleusercontent.com",
+              "client_id": "273895192314-ld0d4vp0b4sjscfuaa95kdv4f68e8i1m.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
